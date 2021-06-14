@@ -4,4 +4,4 @@ The folder contains:
 
 -'model.py' - prediction model
 
--'server.py' - a script to run on a local server
+-'prediction_server.py' - a script to run on a local server
