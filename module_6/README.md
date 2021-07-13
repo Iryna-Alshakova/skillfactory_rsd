@@ -13,6 +13,6 @@
 
 ### Содержание
 [Парсинг](https://github.com/Iryna-Alshakova/skillfactory_rsd/blob/main/module_6/Data%20Parsing.ipynb)    
-[Обработка полученных данных](https://github.com/Iryna-Alshakova/skillfactory_rsd/blob/main/module_6/car-price-data.ipynb)  
+[Обработка полученных данных](https://github.com/Iryna-Alshakova/skillfactory_rsd/blob/main/module_6/Car%20price%20data.ipynb)  
 [Выбор моделей sklearn](https://github.com/Iryna-Alshakova/skillfactory_rsd/blob/main/module_6/LazzyPredict.ipynb)  
 [Предсказательная модель](https://github.com/Iryna-Alshakova/skillfactory_rsd/blob/main/module_6/Prediction%20model.ipynb)
